@@ -23,9 +23,7 @@ Uma conta na OpenAI para acesso à API Vision
 
 Instalação
 
-Clone o repositório:
-bashgit clone https://github.com/seu-usuario/formscan-health.git
-cd formscan-health
+Clone o repositório
 
 Instale as dependências:
 bashnpm install
